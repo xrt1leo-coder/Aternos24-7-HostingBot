@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "YourBotUsername",
+    "username": "XRT13902",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
-    "version": "",
+    "ip": "VORASMP.aternos.me",
+    "port": 250832,
+    "version": "1.26.51.1",
     "try-creative": false
   },
   "position": {
